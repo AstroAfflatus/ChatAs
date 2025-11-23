@@ -1,0 +1,8 @@
+{
+  "name": "ChatAs",
+  "description": "A modern messaging platform with real-time chat, status updates, and audio/video calling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
